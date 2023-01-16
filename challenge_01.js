@@ -48,10 +48,10 @@ Geben Sie die Summe der Zahlen in die Konsole aus:
 
 let zahl1, zahl2, summe;
 
-zahl1 = parseInt(prompt("Zahl 1: "));
-zahl2 = parseInt(prompt("Zahl 2: "));
-summe = zahl1 + zahl2;
-console.log("Die Summe der Zahlen ist: " + summe);
+// zahl1 = parseInt(prompt("Zahl 1: "));
+// zahl2 = parseInt(prompt("Zahl 2: "));
+// summe = zahl1 + zahl2;
+// console.log("Die Summe der Zahlen ist: " + summe);
 
 /*********** Variante 3  ****************/
 // Kompakt, aber schlechter lesbar, unflexibel
